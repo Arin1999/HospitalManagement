@@ -1,0 +1,11 @@
+
+Write a menu driven program to implement patient Hospital Management system such that each patient will have following attributes:
+name, age, address, disease and doctor in charge, room no
+allocated.
+Implement the below options:
+1.Add a new Patient Record when admitted.
+2.Edit/Update Patient Details.
+3.List all the Patient Records.
+4.Delete Patient Record when discharged.
+5.Exit
+

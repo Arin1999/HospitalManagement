@@ -1,0 +1,13 @@
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.exe
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.deps.json
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.json
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.runtimeconfig.dev.json
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.dll
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\HospitalManagement.pdb
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csprojAssemblyReference.cache
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfoInputs.cache
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.AssemblyInfo.cs
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.dll
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.pdb
+C:\Users\monda\source\repos\HospitalManagement\HospitalManagement\obj\Debug\netcoreapp3.1\HospitalManagement.genruntimeconfig.cache
