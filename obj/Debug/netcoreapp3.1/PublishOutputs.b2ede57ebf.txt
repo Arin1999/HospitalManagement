@@ -1,0 +1,5 @@
+C:\Users\monda\source\repos\Week1\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\publish\HospitalManagement.exe
+C:\Users\monda\source\repos\Week1\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\publish\HospitalManagement.dll
+C:\Users\monda\source\repos\Week1\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\publish\HospitalManagement.deps.json
+C:\Users\monda\source\repos\Week1\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\publish\HospitalManagement.runtimeconfig.json
+C:\Users\monda\source\repos\Week1\HospitalManagement\HospitalManagement\bin\Debug\netcoreapp3.1\publish\HospitalManagement.pdb

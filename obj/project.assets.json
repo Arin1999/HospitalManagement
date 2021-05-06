@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\monda\\source\\repos\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+      "projectUniqueName": "C:\\Users\\monda\\source\\repos\\Week1\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
       "projectName": "HospitalManagement",
-      "projectPath": "C:\\Users\\monda\\source\\repos\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
+      "projectPath": "C:\\Users\\monda\\source\\repos\\Week1\\HospitalManagement\\HospitalManagement\\HospitalManagement.csproj",
       "packagesPath": "C:\\Users\\monda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\monda\\source\\repos\\HospitalManagement\\HospitalManagement\\obj\\",
+      "outputPath": "C:\\Users\\monda\\source\\repos\\Week1\\HospitalManagement\\HospitalManagement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
